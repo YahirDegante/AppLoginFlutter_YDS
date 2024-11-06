@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224615074525",
+    "project_id": "finanzas-yahir",
+    "storage_bucket": "finanzas-yahir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224615074525:android:0557aee8f100f099e4a934",
+        "android_client_info": {
+          "package_name": "com.example.actividad02_yahirdegante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXt2GP1pmW78pA1FPW54Bo68ERnxQNbsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
